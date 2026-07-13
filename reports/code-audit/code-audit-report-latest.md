@@ -1,6 +1,6 @@
 # 代码审计报告
 
-**生成时间**: 2026/07/06 11:14:12
+**生成时间**: 2026/07/13 13:40:57
 
 ---
 
@@ -168,313 +168,302 @@
 
 | 指标 | 数值 |
 |------|------|
-| 分析提交数（近半年） | 676 |
-| 总新增代码行数 | 1,355,933 |
-| 总删除代码行数 | 844,217 |
-| 净增代码行数 | 511,716 |
-| 总变更文件数 | 11278 |
-| 平均每次新增行数 | 2005.8 |
-| 平均每次删除行数 | 1248.8 |
-| 平均每次变更文件数 | 16.7 |
+| 分析提交数（近半年） | 648 |
+| 总新增代码行数 | 1,323,512 |
+| 总删除代码行数 | 835,854 |
+| 净增代码行数 | 487,658 |
+| 总变更文件数 | 10930 |
+| 平均每次新增行数 | 2042.5 |
+| 平均每次删除行数 | 1289.9 |
+| 平均每次变更文件数 | 16.9 |
 
 ### 📊 提交代码变更趋势
 
-![ECharts 图表 13](images/chart-13-58e109d1c96d.png)
+![ECharts 图表 13](images/chart-13-f9183b2cb08e.png)
 
-**图表说明**：该折线图展示了近半年提交的代码变更趋势。新增行数和删除行数的变化反映了项目的开发活跃度。平均每次提交新增 2006 行代码，总新增 1,355,933 行，总删除 844,217 行。净变化趋势可以帮助了解项目的代码增长情况。
+**图表说明**：该折线图展示了近半年提交的代码变更趋势。新增行数和删除行数的变化反映了项目的开发活跃度。平均每次提交新增 2042 行代码，总新增 1,323,512 行，总删除 835,854 行。净变化趋势可以帮助了解项目的代码增长情况。
 
 ### 📊 提交影响分析
 
 #### 提交影响分析 (1-10)
 
-![ECharts 图表 14](images/chart-14-75662a55f3ea.png)
+![ECharts 图表 14](images/chart-14-76b312033eda.png)
 
-**图表说明**：该条形图展示了每次提交的影响范围。平均每次提交修改 16.7 个文件，最多一次修改了 672 个文件。文件变更数和代码行数可以帮助评估提交的复杂度和影响范围。较大的提交可能需要更多时间进行代码审查。
+**图表说明**：该条形图展示了每次提交的影响范围。平均每次提交修改 16.9 个文件，最多一次修改了 672 个文件。文件变更数和代码行数可以帮助评估提交的复杂度和影响范围。较大的提交可能需要更多时间进行代码审查。
 
 #### 提交影响分析 (11-20)
 
-![ECharts 图表 15](images/chart-15-6031cc5eaea6.png)
+![ECharts 图表 15](images/chart-15-1d678454808a.png)
 
 #### 提交影响分析 (21-30)
 
-![ECharts 图表 16](images/chart-16-add70dfe711a.png)
+![ECharts 图表 16](images/chart-16-48a9158aaa49.png)
 
 #### 提交影响分析 (31-40)
 
-![ECharts 图表 17](images/chart-17-57a14950462e.png)
+![ECharts 图表 17](images/chart-17-b953ccaa9bb6.png)
 
 #### 提交影响分析 (41-50)
 
-![ECharts 图表 18](images/chart-18-c8ff761fd6ad.png)
+![ECharts 图表 18](images/chart-18-78238d9f9554.png)
 
 #### 提交影响分析 (51-60)
 
-![ECharts 图表 19](images/chart-19-c19abe39b98f.png)
+![ECharts 图表 19](images/chart-19-0fde50153246.png)
 
 #### 提交影响分析 (61-70)
 
-![ECharts 图表 20](images/chart-20-cfc49ac3a3ae.png)
+![ECharts 图表 20](images/chart-20-a8d450441dc7.png)
 
 #### 提交影响分析 (71-80)
 
-![ECharts 图表 21](images/chart-21-16e8a53d245f.png)
+![ECharts 图表 21](images/chart-21-2401a0532839.png)
 
 #### 提交影响分析 (81-90)
 
-![ECharts 图表 22](images/chart-22-f4693c4d6f49.png)
+![ECharts 图表 22](images/chart-22-e6bf48d56ad1.png)
 
 #### 提交影响分析 (91-100)
 
-![ECharts 图表 23](images/chart-23-44e5fcf9611d.png)
+![ECharts 图表 23](images/chart-23-4ed53fd5028d.png)
 
 #### 提交影响分析 (101-110)
 
-![ECharts 图表 24](images/chart-24-8bc3a9e29fee.png)
+![ECharts 图表 24](images/chart-24-185a20c99abd.png)
 
 #### 提交影响分析 (111-120)
 
-![ECharts 图表 25](images/chart-25-b3eecd1c4301.png)
+![ECharts 图表 25](images/chart-25-ff1219320d87.png)
 
 #### 提交影响分析 (121-130)
 
-![ECharts 图表 26](images/chart-26-0a6d2ecaa315.png)
+![ECharts 图表 26](images/chart-26-cc430c2c3aa9.png)
 
 #### 提交影响分析 (131-140)
 
-![ECharts 图表 27](images/chart-27-d0b7cafc1959.png)
+![ECharts 图表 27](images/chart-27-346bc51a732c.png)
 
 #### 提交影响分析 (141-150)
 
-![ECharts 图表 28](images/chart-28-a21609d5d5b2.png)
+![ECharts 图表 28](images/chart-28-d1bb1ebca3ba.png)
 
 #### 提交影响分析 (151-160)
 
-![ECharts 图表 29](images/chart-29-38833dabe0bf.png)
+![ECharts 图表 29](images/chart-29-c5b58f573e72.png)
 
 #### 提交影响分析 (161-170)
 
-![ECharts 图表 30](images/chart-30-3b4160cf2bb2.png)
+![ECharts 图表 30](images/chart-30-00bedc8664b8.png)
 
 #### 提交影响分析 (171-180)
 
-![ECharts 图表 31](images/chart-31-8b1a2256bed6.png)
+![ECharts 图表 31](images/chart-31-5d1748debe45.png)
 
 #### 提交影响分析 (181-190)
 
-![ECharts 图表 32](images/chart-32-7931fa8fabac.png)
+![ECharts 图表 32](images/chart-32-29466d11e8af.png)
 
 #### 提交影响分析 (191-200)
 
-![ECharts 图表 33](images/chart-33-9b4106a07838.png)
+![ECharts 图表 33](images/chart-33-0540bfb4321d.png)
 
 #### 提交影响分析 (201-210)
 
-![ECharts 图表 34](images/chart-34-d603f34ee9e1.png)
+![ECharts 图表 34](images/chart-34-4b2f9aef9046.png)
 
 #### 提交影响分析 (211-220)
 
-![ECharts 图表 35](images/chart-35-55cdb50d9b59.png)
+![ECharts 图表 35](images/chart-35-dc511499b22a.png)
 
 #### 提交影响分析 (221-230)
 
-![ECharts 图表 36](images/chart-36-62c522faca1c.png)
+![ECharts 图表 36](images/chart-36-2fe6e4c2ef68.png)
 
 #### 提交影响分析 (231-240)
 
-![ECharts 图表 37](images/chart-37-a381e6a26896.png)
+![ECharts 图表 37](images/chart-37-2a81cc7a030d.png)
 
 #### 提交影响分析 (241-250)
 
-![ECharts 图表 38](images/chart-38-d1e64805c579.png)
+![ECharts 图表 38](images/chart-38-dbec1ff5299d.png)
 
 #### 提交影响分析 (251-260)
 
-![ECharts 图表 39](images/chart-39-94375d1ab75d.png)
+![ECharts 图表 39](images/chart-39-99a3df2fa32f.png)
 
 #### 提交影响分析 (261-270)
 
-![ECharts 图表 40](images/chart-40-5ea8e9a44741.png)
+![ECharts 图表 40](images/chart-40-e03541a123dd.png)
 
 #### 提交影响分析 (271-280)
 
-![ECharts 图表 41](images/chart-41-77133cd6a187.png)
+![ECharts 图表 41](images/chart-41-2035df08e823.png)
 
 #### 提交影响分析 (281-290)
 
-![ECharts 图表 42](images/chart-42-c1e1938cb173.png)
+![ECharts 图表 42](images/chart-42-52abad8410a5.png)
 
 #### 提交影响分析 (291-300)
 
-![ECharts 图表 43](images/chart-43-ddab8ced6a46.png)
+![ECharts 图表 43](images/chart-43-eab5e30452c5.png)
 
 #### 提交影响分析 (301-310)
 
-![ECharts 图表 44](images/chart-44-c0cc58f4a3f3.png)
+![ECharts 图表 44](images/chart-44-cf83ccaf0deb.png)
 
 #### 提交影响分析 (311-320)
 
-![ECharts 图表 45](images/chart-45-fcff258a4f53.png)
+![ECharts 图表 45](images/chart-45-a4d65f2984c9.png)
 
 #### 提交影响分析 (321-330)
 
-![ECharts 图表 46](images/chart-46-af64f6456186.png)
+![ECharts 图表 46](images/chart-46-51ce8f31006a.png)
 
 #### 提交影响分析 (331-340)
 
-![ECharts 图表 47](images/chart-47-1867510852b3.png)
+![ECharts 图表 47](images/chart-47-061fab629737.png)
 
 #### 提交影响分析 (341-350)
 
-![ECharts 图表 48](images/chart-48-26f45dda8d9e.png)
+![ECharts 图表 48](images/chart-48-2a4f14612bd9.png)
 
 #### 提交影响分析 (351-360)
 
-![ECharts 图表 49](images/chart-49-14355155c97a.png)
+![ECharts 图表 49](images/chart-49-0a6b04fa3707.png)
 
 #### 提交影响分析 (361-370)
 
-![ECharts 图表 50](images/chart-50-bb4e03198c00.png)
+![ECharts 图表 50](images/chart-50-f40f225399b8.png)
 
 #### 提交影响分析 (371-380)
 
-![ECharts 图表 51](images/chart-51-65af5fa61a1a.png)
+![ECharts 图表 51](images/chart-51-76d796ea9bef.png)
 
 #### 提交影响分析 (381-390)
 
-![ECharts 图表 52](images/chart-52-58c9ad955f27.png)
+![ECharts 图表 52](images/chart-52-5459a61d6a61.png)
 
 #### 提交影响分析 (391-400)
 
-![ECharts 图表 53](images/chart-53-45f51ec76892.png)
+![ECharts 图表 53](images/chart-53-70ebd8ab78d6.png)
 
 #### 提交影响分析 (401-410)
 
-![ECharts 图表 54](images/chart-54-50fa0b45aee2.png)
+![ECharts 图表 54](images/chart-54-47583f03e87d.png)
 
 #### 提交影响分析 (411-420)
 
-![ECharts 图表 55](images/chart-55-f91118caa0ba.png)
+![ECharts 图表 55](images/chart-55-1d2c7e5e0c33.png)
 
 #### 提交影响分析 (421-430)
 
-![ECharts 图表 56](images/chart-56-f3b0466c9f67.png)
+![ECharts 图表 56](images/chart-56-2c6dd6f54a72.png)
 
 #### 提交影响分析 (431-440)
 
-![ECharts 图表 57](images/chart-57-c34f6a6d6e63.png)
+![ECharts 图表 57](images/chart-57-e35afc07a4b2.png)
 
 #### 提交影响分析 (441-450)
 
-![ECharts 图表 58](images/chart-58-cb3a52e4edad.png)
+![ECharts 图表 58](images/chart-58-a0be05814e97.png)
 
 #### 提交影响分析 (451-460)
 
-![ECharts 图表 59](images/chart-59-41b4ef9bdc00.png)
+![ECharts 图表 59](images/chart-59-ec447746e172.png)
 
 #### 提交影响分析 (461-470)
 
-![ECharts 图表 60](images/chart-60-5ebc2bc97b57.png)
+![ECharts 图表 60](images/chart-60-94452ffbd980.png)
 
 #### 提交影响分析 (471-480)
 
-![ECharts 图表 61](images/chart-61-978cacab53c4.png)
+![ECharts 图表 61](images/chart-61-c759a1409b71.png)
 
 #### 提交影响分析 (481-490)
 
-![ECharts 图表 62](images/chart-62-b3d4d3ceeaa2.png)
+![ECharts 图表 62](images/chart-62-b75a64045e89.png)
 
 #### 提交影响分析 (491-500)
 
-![ECharts 图表 63](images/chart-63-2f7847861c98.png)
+![ECharts 图表 63](images/chart-63-92b498cd3d9b.png)
 
 #### 提交影响分析 (501-510)
 
-![ECharts 图表 64](images/chart-64-28ccfa9c6f95.png)
+![ECharts 图表 64](images/chart-64-877812416316.png)
 
 #### 提交影响分析 (511-520)
 
-![ECharts 图表 65](images/chart-65-e41a7c28d1a6.png)
+![ECharts 图表 65](images/chart-65-703aa54ca212.png)
 
 #### 提交影响分析 (521-530)
 
-![ECharts 图表 66](images/chart-66-6f44a8f275b4.png)
+![ECharts 图表 66](images/chart-66-d4af1bb63b22.png)
 
 #### 提交影响分析 (531-540)
 
-![ECharts 图表 67](images/chart-67-b279b69cf109.png)
+![ECharts 图表 67](images/chart-67-cb27c2173213.png)
 
 #### 提交影响分析 (541-550)
 
-![ECharts 图表 68](images/chart-68-6866dd2e00b1.png)
+![ECharts 图表 68](images/chart-68-5276e9bbc3b5.png)
 
 #### 提交影响分析 (551-560)
 
-![ECharts 图表 69](images/chart-69-7fc2c043bb81.png)
+![ECharts 图表 69](images/chart-69-d07ed7625891.png)
 
 #### 提交影响分析 (561-570)
 
-![ECharts 图表 70](images/chart-70-ae1d0be1e9f9.png)
+![ECharts 图表 70](images/chart-70-567942bc5034.png)
 
 #### 提交影响分析 (571-580)
 
-![ECharts 图表 71](images/chart-71-4131f95ee897.png)
+![ECharts 图表 71](images/chart-71-e40ae4268ee4.png)
 
 #### 提交影响分析 (581-590)
 
-![ECharts 图表 72](images/chart-72-ebc1e4c858bc.png)
+![ECharts 图表 72](images/chart-72-52c3ca54e7d5.png)
 
 #### 提交影响分析 (591-600)
 
-![ECharts 图表 73](images/chart-73-fe4d19f55b30.png)
+![ECharts 图表 73](images/chart-73-b5c3722bff46.png)
 
 #### 提交影响分析 (601-610)
 
-![ECharts 图表 74](images/chart-74-f0167617eb7f.png)
+![ECharts 图表 74](images/chart-74-b1d1f69c2dea.png)
 
 #### 提交影响分析 (611-620)
 
-![ECharts 图表 75](images/chart-75-1a7c5c62bdc2.png)
+![ECharts 图表 75](images/chart-75-9c4193bdb2d1.png)
 
 #### 提交影响分析 (621-630)
 
-![ECharts 图表 76](images/chart-76-9aefb2a0ad01.png)
+![ECharts 图表 76](images/chart-76-49730d4f8b71.png)
 
 #### 提交影响分析 (631-640)
 
-![ECharts 图表 77](images/chart-77-66f8803566fb.png)
+![ECharts 图表 77](images/chart-77-ef61a22a69d1.png)
 
-#### 提交影响分析 (641-650)
+#### 提交影响分析 (641-648)
 
-![ECharts 图表 78](images/chart-78-c23b529eedd5.png)
-
-#### 提交影响分析 (651-660)
-
-![ECharts 图表 79](images/chart-79-9fab4b37ad36.png)
-
-#### 提交影响分析 (661-670)
-
-![ECharts 图表 80](images/chart-80-c42d5493fbf7.png)
-
-#### 提交影响分析 (671-676)
-
-![ECharts 图表 81](images/chart-81-12ff08c5c0b0.png)
+![ECharts 图表 78](images/chart-78-d86b081e3392.png)
 
 ### 📊 贡献者提交分布
 
-![ECharts 图表 82](images/chart-82-03d6438cd139.png)
+![ECharts 图表 79](images/chart-79-8698858cf0fc.png)
 
-**图表说明**：该饼图展示了各贡献者的提交次数分布。共有 6 位贡献者参与了近半年的开发工作，其中 Jared Ye 贡献最多，占 60.4% 的提交。这反映了团队的协作情况和各成员的参与度。
+**图表说明**：该饼图展示了各贡献者的提交次数分布。共有 6 位贡献者参与了近半年的开发工作，其中 Jared Ye 贡献最多，占 58.5% 的提交。这反映了团队的协作情况和各成员的参与度。
 
 ### 📊 提交频率分析
 
-![ECharts 图表 83](images/chart-83-577f8a2e9c13.png)
+![ECharts 图表 80](images/chart-80-7f3a96c19d39.png)
 
-**图表说明**：该柱状图展示了提交的时间分布频率。平均每天有 7.6 次提交，最多一天有 65 次提交。提交频率可以反映项目的开发节奏和活跃度，持续稳定的提交频率通常表明项目处于良好的开发状态。
+**图表说明**：该柱状图展示了提交的时间分布频率。平均每天有 7.8 次提交，最多一天有 65 次提交。提交频率可以反映项目的开发节奏和活跃度，持续稳定的提交频率通常表明项目处于良好的开发状态。
 
 ### 📋 最近提交列表（Top 10）
 
 | 提交 Hash | 作者 | 日期 | 提交信息 | 文件数 | 新增 | 删除 |
 |-----------|------|------|----------|--------|------|------|
+| `318e47d` | GitHub Action | 2026/07/06 07:06 | chore: bump version to Beta0.21.0 [skip ci] | 2 | +5 | -5 |
 | `b49432f` | Jared Ye | 2026/07/04 08:41 | Update README.md | 1 | +2 | -1 |
 | `c6ba677` | Jared Ye | 2026/07/04 08:40 | Update README.md | 1 | +1 | -3 |
 | `9dfe01c` | Jared Ye | 2026/07/04 08:39 | Update README.md | 1 | +700 | -697 |
@@ -484,7 +473,6 @@
 | `0d29329` | Jared Ye | 2026/07/04 08:21 | fix: 修复 README badge 无法显示版本与许可证 | 2 | +5 | -3 |
 | `b7d7f1d` | Jared Ye | 2026/07/04 08:00 | Update README.md | 1 | +2 | -2 |
 | `930557a` | Jared Ye | 2026/07/04 07:54 | Update README.md | 1 | +1309 | -235 |
-| `9d8dbab` | Jared Ye | 2026/07/04 07:29 | docs: 添加 GPLv2 许可证声明（LICENSE、README、关于页） | 6 | +376 | -5 |
 
 ## 📈 时间段改动量占比分析
 
@@ -492,12 +480,12 @@
 
 | 时间段 | 提交数 | 新增行数 | 删除行数 | 累计改动量 | 净变化量 | 净变化占比 |
 |--------|--------|----------|----------|------------|----------|-------------|
-| 近一周 | 16 | +9,628 | -6,538 | 16,166 | +3,090 | 0.53% |
-| 近一月 | 16 | +9,628 | -6,538 | 16,166 | +3,090 | 0.53% |
-| 近一季 | 93 | +75,777 | -19,928 | 95,705 | +55,849 | 9.63% |
-| 近半年 | 669 | +823,113 | -322,377 | 1,145,490 | +500,736 | 86.32% |
-| 近一年 | 931 | +1,023,783 | -358,120 | 1,381,903 | +665,663 | 114.76% |
-| 所有时间 | 960 | +1,049,161 | -364,721 | 1,413,882 | +684,440 | 117.99% |
+| 近一周 | 1 | +0 | -0 | 0 | +0 | 0.00% |
+| 近一月 | 17 | +9,628 | -6,538 | 16,166 | +3,090 | 0.53% |
+| 近一季 | 48 | +39,667 | -13,677 | 53,344 | +25,990 | 4.48% |
+| 近半年 | 641 | +797,372 | -316,882 | 1,114,254 | +480,490 | 82.83% |
+| 近一年 | 932 | +1,023,783 | -358,120 | 1,381,903 | +665,663 | 114.76% |
+| 所有时间 | 961 | +1,049,161 | -364,721 | 1,413,882 | +684,440 | 117.99% |
 
 > 💡 **说明**：
 > - **累计改动量** = 新增行数 + 删除行数（同一文件多次修改会累加，可能超过项目代码量）
@@ -507,23 +495,23 @@
 
 ### 📊 时间段改动量对比（堆叠柱状图）
 
-![ECharts 图表 84](images/chart-84-e151f3f37878.png)
+![ECharts 图表 81](images/chart-81-5164c993163e.png)
 
-**图表说明**：该条形图对比了不同时间段的代码改动量。平均每个时间段的改动量为 678219 行，最多为 1,413,882 行。结合占比趋势线可以直观看出各时间段改动量占项目总代码量的比例，有助于评估代码变更的规模和频率。
+**图表说明**：该条形图对比了不同时间段的代码改动量。平均每个时间段的改动量为 663258 行，最多为 1,413,882 行。结合占比趋势线可以直观看出各时间段改动量占项目总代码量的比例，有助于评估代码变更的规模和频率。
 
 ### 📊 时间段改动量组成（新增/删除）
 
-![ECharts 图表 85](images/chart-85-2ed6f0dcb2f9.png)
+![ECharts 图表 82](images/chart-82-d3d65bb6b90d.png)
 
-**图表说明**：该堆叠条形图展示了不同时间段的新增和删除代码行数。总新增 2,991,090 行，总删除 1,078,222 行，净增 1,912,868 行。通过对比新增和删除可以了解代码的演进方向，净增为正表示代码在增长，净增为负表示代码在精简。
+**图表说明**：该堆叠条形图展示了不同时间段的新增和删除代码行数。总新增 2,919,611 行，总删除 1,059,938 行，净增 1,859,673 行。通过对比新增和删除可以了解代码的演进方向，净增为正表示代码在增长，净增为负表示代码在精简。
 
 ### 💡 分析说明
 
 - **最活跃时间段**：所有时间（净变化 +684,440 行，占比 117.99%）
-- **最不活跃时间段**：近一周（净变化 +3,090 行，占比 0.53%）
-- **平均净变化占比**：54.96%
-- **累计总改动量**：4,069,312 行（新增 2,991,090 行，删除 1,078,222 行）
-- **总净变化量**：+1,912,868 行
+- **最不活跃时间段**：近一周（净变化 +0 行，占比 0.00%）
+- **平均净变化占比**：53.43%
+- **累计总改动量**：3,979,549 行（新增 2,919,611 行，删除 1,059,938 行）
+- **总净变化量**：+1,859,673 行
 
 > 💡 **提示**：时间段改动量占比反映了项目在不同时期的开发活跃度。净变化占比使用净变化量（新增-删除）的绝对值计算，更准确地反映了代码的实际增长情况。累计改动量可能超过项目代码量，因为同一文件可能被多次修改。
 
@@ -541,19 +529,19 @@
 
 ### 📊 依赖项类型对比
 
-![ECharts 图表 86](images/chart-86-6e2651ac1145.png)
+![ECharts 图表 83](images/chart-83-6e2651ac1145.png)
 
 **图表说明**：该条形图对比了生产依赖和开发依赖的数量。生产依赖（118 个）占 67.4%，开发依赖（57 个）占 32.6%。合理的依赖结构应该以生产依赖为主，开发依赖用于构建和测试工具。
 
 ### 📊 依赖项作用域分布
 
-![ECharts 图表 87](images/chart-87-1521bb8d5a55.png)
+![ECharts 图表 84](images/chart-84-1521bb8d5a55.png)
 
 **图表说明**：该饼图展示了依赖项按作用域（scope）的分布情况。(无作用域) 作用域的依赖项最多，占 74.9%（131 个包）。作用域分布反映了项目使用的技术栈和工具链。
 
 ### 📊 依赖项作用域对比
 
-![ECharts 图表 88](images/chart-88-6fabff1e732e.png)
+![ECharts 图表 85](images/chart-85-6fabff1e732e.png)
 
 **图表说明**：该条形图展示了各作用域的依赖项数量对比。平均每个作用域有 6.5 个依赖项，最多的作用域有 131 个依赖项。这反映了项目对不同技术栈的依赖程度。
 
